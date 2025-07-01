@@ -56,6 +56,11 @@ sudo python3 sniffer.py -i <interface> [options]
 
 ## 🎥 Demo Video
 
+
+
+https://github.com/user-attachments/assets/c1e8c220-ae16-486c-9959-0894904b5297
+
+
 ---
 
 ## 💾 Sample Output
