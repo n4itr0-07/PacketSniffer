@@ -56,7 +56,7 @@ sudo python3 sniffer.py -i <interface> [options]
 
 ## 🎥 Demo Video
 
-![Demo_Video](assets/demo_video.mp4)
+
 
 ---
 
