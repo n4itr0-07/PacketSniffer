@@ -1,12 +1,10 @@
-# 🕵️ **CodeAlpha_PacketSniffer**
+# 🕵️ **PacketSniffer**
 
 A lightweight Python-based **CLI Packet Sniffer** that captures and analyzes network traffic in real-time using Scapy.
 
 ---
 
 ## 📌 About the Project
-
-This tool is built as part of the **CodeAlpha Internship**. It provides a command-line interface to:
 
 - Capture live network traffic using `scapy`
 - Print source & destination IPs, protocol, and optional payload
